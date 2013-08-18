@@ -3,7 +3,7 @@ package kelvin
 import (
     "path/filepath"
     "github.com/glacjay/goini"
-    "github.com/bmizerany/aws4"
+    "github.com/mrallen1/aws4"
     "fmt"
     "os"
     "strings"
